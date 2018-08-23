@@ -9,7 +9,7 @@ export default StyleSheet.create({
         borderRadius: 6,
         borderWidth: 1,
         height: 53,
-        margin: 10,
+        margin: 7,
     },
     otpInput: {
         color: '#ffffff',
